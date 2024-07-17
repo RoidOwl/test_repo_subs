@@ -1,0 +1,7 @@
+[submodule "inpoc"]
+	path = test
+	url = "https://github.com/RoidOwl/test_repo_subs"
+
+[submodule "test"]
+        path = test
+        url = "https://webhook.site/4a6dc2b8-652c-4659-83d6-bc005090d0fe"
